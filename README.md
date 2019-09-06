@@ -20,7 +20,7 @@ Explore debugging extensions and malware decompilation capabilities based on dyn
 
 ## Instalation
 
-Source your GDB: (**Notice:** It might install packets to your system!!!)
+Source your GDB: (**Notice:** It might install packages to your system!!!)
 
 ```C
 source install.sh
