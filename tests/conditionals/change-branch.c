@@ -4,9 +4,9 @@ int main()
     int a = 1;
     if(a>0)
     {
-        printf("maior\n");
+        printf("Not Malware!\n");
     }else{
-        printf("voce nao devia estar aqui\n");
+        printf("Now It's a Malware!\n");
     }
     return 0;
 }
