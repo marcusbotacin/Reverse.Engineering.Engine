@@ -58,5 +58,5 @@ You can perform a fully automated execution and decompilation analysis by typing
 
 ## Publications
 
-The paper *Extensões de Engenharia Reversa para o GDB* was published in the *XIX SBSEG*. [Check Here](paper/artigo.pdf)
-The paper *RevEngE is a dish served cold: Debug-Oriented Malware Decompilation and Reassembly* was published in the *Reversing and Offensive-oriented Trends Symposium 2019 (ROOTS)*. [Check Here](paper/roots_revenge.pdf)
+* The paper *RevEngE is a dish served cold: Debug-Oriented Malware Decompilation and Reassembly* was published in the *Reversing and Offensive-oriented Trends Symposium 2019 (ROOTS)*. [Check Here](paper/roots_revenge.pdf)
+* The paper *Extensões de Engenharia Reversa para o GDB* was published in the *XIX SBSEG*. [Check Here](paper/artigo.pdf)
